@@ -1,0 +1,50 @@
+,Age,City/County,Name,State,emails,phone_numbers
+0,30.0,Los Angeles ,Trevor English,CA,,
+1,24.0,Los Angeles ,Raul Soto,CA,"['raulsx1995@gmail.com', 'raulsoto96@yahoo.com', 'raul_crook@yahoo.com']","['(323) 455-7195', '(323) 571-5151', '(323) 308-7994']"
+2,38.0,Los Angeles ,John Hull,CA,,
+3,27.0,Los Angeles ,Michael Amaya,CA,,
+4,34.0,Los Angeles ,Dontae Griffin,CA,,
+5,30.0,Los Angeles ,Lorenzo Santana,CA,,
+6,40.0,Los Angeles ,Cristina Salazar,CA,,
+7,31.0,Los Angeles ,Dominic Breaux,CA,,
+8,34.0,Los Angeles ,Tommy Shriner,CA,,
+9,38.0,Los Angeles ,Ricardo Ramos,CA,,
+10,42.0,Los Angeles ,Carina Hastenreiter,CA,,
+11,40.0,Los Angeles ,Brett Kerr,CA,,
+12,45.0,Los Angeles ,Carlos Salazar,CA,"['los.salazar77@gmail.com', 'thesmithsrule1@aol.com', 'csalazar158@sprintpcs.com', 'killerkorn12000@yahoo.com', 'mysterymeat007@aol.com', 'mysterymeat007@yahoo.com', 'hellsing.m27@gmail.com', 'jcsalaz8@gmail.com', 'carlosjr2320@yahoo.com']","['(323) 839-8307', '(323) 629-0943', '(323) 517-4272', '(562) 761-7657', '(323) 298-9421', '(909) 354-5043', '(310) 909-3928', '(281) 528-9519']"
+13,32.0,Los Angeles ,Joshua Walker,CA,"['bareallgoodness@gmail.com', 'murdekaw@ucla.edu', 'imxp03@aol.com']","['(702) 376-2330', '(702) 469-0822', '(702) 293-4604']"
+14,30.0,Los Angeles ,Victor Hu,CA,,
+15,24.0,Los Angeles ,Manuel Sanchez,CA,"['manuelsnchz97@gmail.com', 'avalonman3@yahoo.com', 'mary_lopez91@hotmail.com', 'jokerman922@gmail.com', 'basstraphd@gmail.com', 'jokerman8922@gmail.com']","['(323) 242-9328', '(323) 242-4293', '(323) 242-9327', '(909) 374-1131', '(909) 477-3010', '(909) 447-6909']"
+16,30.0,Los Angeles ,Misty Dennis,CA,,
+17,26.0,Los Angeles ,Haley Christiansen,CA,,
+18,45.0,Los Angeles ,Shantavia Mcdaniels,CA,,
+19,30.0,Los Angeles ,Jose Mora,CA,,"['(323) 234-2586', '(323) 404-8951', '(323) 232-2726']"
+20,41.0,Los Angeles ,Joe Sanchez,CA,,
+21,31.0,Los Angeles ,Amber Day,CA,,
+22,48.0,Los Angeles ,Antonio Flores,CA,"['antoniof@pasito.com', 'awflores1973@gmail.com', 'lleaseman@yahoo.com', 'anthonyflorescashcrate@gmail.com', 'afloresjr@gmail.com', 'afloresjr@mindspring.com', 'catpillarelli@aol.com', 'conejo_rmz69@hotmail.com', 'antonioflores@gmail.com', 'teocalli@teocallipittz.com', 'antonioflores@sbcglobal.net', 'zier13@yahoo.com', 'antonio.flores@yahoo.com', 'zier@yahoo.com']","['(323) 833-2567', '(714) 486-9769', '(323) 621-9069', '(818) 388-6507', '(310) 254-5310', '(213) 254-5310', '(323) 806-3829', '(323) 806-3819', '(602) 502-3270', '(323) 595-4804', '(323) 233-2782', '(323) 261-0376', '(559) 917-8098', '(443) 995-0083', '(214) 458-1988', '(419) 565-3282', '(850) 390-0421', '(773) 330-6705']"
+23,29.0,Los Angeles ,Juan Villa,CA,,
+24,26.0,Los Angeles ,Karoline Gomez,CA,"['hfhfhfhf@gmail.com', 'felisha60@yahoo.com']","['(951) 289-1600', '(661) 946-8384', '(661) 816-5245']"
+25,65.0,Los Angeles ,Richard Halliday,CA,,
+26,40.0,Los Angeles ,Gabriel Olea,CA,"['gto1981.go@gmail.com', 'gabrielolea@ymail.com', 'gto1981.go1@gmail.com']","['(323) 333-0410', '(323) 835-2889', '(323) 915-7028']"
+27,50.0,Los Angeles ,Vittoriano Virgilio,CA,,
+28,40.0,Los Angeles ,Angel Guerrero,CA,,
+29,27.0,Los Angeles ,Kenyon Hughes,CA,,
+30,58.0,Los Angeles ,Richard Orozco,CA,,
+31,42.0,Los Angeles ,Francisco Martinez,CA,"['robertbates1031@gmail.com', 'martinezfrako@sbcglobal.net', 'jaforanges@aol.com']","['(323) 731-0719', '(323) 296-5065', '(316) 524-3913', '(323) 331-0948']"
+32,41.0,Los Angeles ,Tiancheng Zhang,CA,,
+33,40.0,Los Angeles ,Christopher Ledesma,CA,,
+34,30.0,Los Angeles ,Robert Moore,CA,,
+35,22.0,Los Angeles ,Raymond Lastrapes,CA,,
+36,21.0,Los Angeles ,Samantha Reyes,CA,['reyes.samantha2021@gmail.com'],
+37,30.0,Los Angeles ,Sierra Hernandez,CA,,
+38,26.0,Los Angeles ,Ricardo Ramirez,CA,"['rafayahoo323@gmail.com', 'rriiccaarrddoo7@yahoo.com', 'rrr_323@inbox.com', 'rafayahoo323@gmail.com', 'ricardo.ramirez@me.com', 'kailyre@gmail.com']","['(323) 632-0886', '(323) 698-4502', '(323) 567-7010', '(323) 200-1010', '(361) 877-5058', '(979) 215-1082']"
+39,28.0,Los Angeles ,Isaac Martin,CA,,
+40,53.0,Los Angeles ,Michael Castillo,CA,"['mcast.3240@gmail.com', 'michaelcastillo3829@yahoo.com', 'denisecastillo2003@gmail.com']","['(323) 326-5160', '(323) 365-0866', '(323) 687-6394']"
+41,27.0,Los Angeles ,Daniel Cisneros,CA,,
+42,60.0,Los Angeles ,Dale Lovera,CA,['loveradale@gmail.com'],"['(661) 670-1561', '(408) 626-7935']"
+43,36.0,Los Angeles ,David Interiano,CA,,
+44,49.0,Los Angeles ,Richard Escarcega,CA,,
+45,35.0,Los Angeles ,Bradley Norling,CA,,
+46,60.0,Los Angeles ,Michael Mcdonough,CA,,
+47,46.0,Los Angeles ,Domani Walleman,CA,,
+48,58.0,Los Angeles ,Salvador Rubalcava,CA,,

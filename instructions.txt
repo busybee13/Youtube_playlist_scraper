@@ -1,0 +1,7 @@
+install python 3.8+
+
+Download chrome driver from : https://chromedriver.chromium.org/downloads
+
+Add chrome driver to Path via environment variables
+
+from the project dir, run pip install -r requirements.txt
